@@ -1,0 +1,13 @@
+{
+  "name": "Tiles",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>, non-commercial use only",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "26",
+  "maxzoom": "27",
+  "scale": "1.000000",
+  "bounds": [0.00006288, 0.00045994, 0.00006558, 0.00046128],
+  "profile": "mercator"
+}
